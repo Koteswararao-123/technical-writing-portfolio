@@ -5,4 +5,4 @@ This repository contains my technical writing samples.
 ## Documents
 
 - Python Installation Guide
-- User Login Guide (coming soon)
+- User Login Guide
